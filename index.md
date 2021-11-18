@@ -7,7 +7,7 @@ Hi!  I'm Peter, a composer/programmer currently pursuing a mathematics PhD at Or
 My research interests are signal processing and numerical analysis.
 
 Online, I primarily exist under the alias "[petet](https://twitter.com/retropetet "twitter")."
-You can check out my [games](https://petet.itch.io "itch.io") and [music](https://soundcloud.com/symphonynth "soundcloud") here.
+You can check out my [games here](https://petet.itch.io "itch.io") and [music here](https://soundcloud.com/symphonynth "soundcloud").
 
 ### games
 * [winds under a lost sky](https://petet.itch.io/winds-under-a-lost-sky) (exploration game, 2021)
