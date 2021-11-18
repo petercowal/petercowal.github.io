@@ -18,7 +18,7 @@ You can check out my [games](https://petet.itch.io "itch.io") and [music](https:
 * [balmung](https://petet.itch.io/balmung) (adventure game, 2018)
 
 ### other projects
-* [STAFFcirc vol. 7b video](https://www.youtube.com/watch?v=tl0aWEt5nA0) (microtonal music visualizer, 2021)
+* [STAFFcirc vol. 7b video](https://www.youtube.com/watch?v=tl0aWEt5nA0) (microtonal music visualizer, 2021, [source](https://github.com/petercowal/luna-visualizer))
 * [violet](https://twitter.com/retropetet/status/1350896880851447809) (unreleased waveguide synthesizer, 2021)
 * [STAFFcirc vol. 7a video](https://www.youtube.com/watch?v=bsiOMc4aV-8) (microtonal music visualizer, 2021)
 * [TIC Topos](https://petet.itch.io/tic-topos) (fantasy console terrain generator, 2020)
