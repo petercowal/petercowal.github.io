@@ -1,8 +1,6 @@
 ---
 ---
 
-## petet's website
-
 Hi!  I'm Peter, a composer/programmer currently pursuing a mathematics PhD at Oregon State University.
 My research interests are signal processing and numerical analysis.
 
