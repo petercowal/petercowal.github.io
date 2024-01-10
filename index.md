@@ -15,7 +15,7 @@ You can check out my [games here](https://petet.itch.io "itch.io") and [music he
 * [STAFFcirc vol. 7a video](https://www.youtube.com/watch?v=bsiOMc4aV-8) (microtonal music visualizer, 2021)
 * [TIC Topos](https://petet.itch.io/tic-topos) (fantasy console terrain generator, 2020)
 * [voxel renderer](https://tic80.com/play?cart=1229) (fantasy console modeling tool, 2020)
-* [autoharp cycles](https://battleofthebits.org/arena/Entry/Autoharp+Cycles/33794/) (pure data composition, 2020)
+* [autoharp cycles](https://battleofthebits.com/arena/Entry/Autoharp+Cycles/33794/) (pure data composition, 2020)
 * [violin harmonics](https://github.com/petercowal/violin-soundfonts) (soundfont, 2020)
 * [valence aleator](https://petet.itch.io/valence-aleator) (experimental music generator, 2019)
 
