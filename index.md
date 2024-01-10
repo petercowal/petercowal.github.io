@@ -7,10 +7,7 @@ I study numerical methods for solving inverse problems in imaging.
 This site currently documents a few of the personal projects I've worked on over the past few years.
 You can check out my [games here](https://petet.itch.io "itch.io") and [music here](https://soundcloud.com/retropetet "soundcloud").
 
-### games
-* [balmung](https://petet.itch.io/balmung) (adventure game, 2018)
-
-### other projects
+### audiovisual projects
 * [Webcam Fractals](https://petercowal.github.io/webcam-fractals/) (interactive fractal tool, 2023) 
 * [Community Vowel Art](https://petercowal.github.io/community-vowel-art/) (data visualization collab with Portland State University's linguistics department, 2022)
 * [STAFFcirc vol. 7b video](https://www.youtube.com/watch?v=tl0aWEt5nA0) (microtonal music visualizer, 2021, [source](https://github.com/petercowal/luna-visualizer))
@@ -21,6 +18,9 @@ You can check out my [games here](https://petet.itch.io "itch.io") and [music he
 * [autoharp cycles](https://battleofthebits.org/arena/Entry/Autoharp+Cycles/33794/) (pure data composition, 2020)
 * [violin harmonics](https://github.com/petercowal/violin-soundfonts) (soundfont, 2020)
 * [valence aleator](https://petet.itch.io/valence-aleator) (experimental music generator, 2019)
+
+### bigger games
+* [balmung](https://petet.itch.io/balmung) (adventure game, 2018)
 
 ### smaller games
 * [arms of the demon king](https://petet.itch.io/arms-of-the-demon-king) (survival game, 2023)
