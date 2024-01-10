@@ -8,8 +8,8 @@ This site currently documents a few of the personal projects I've worked on over
 You can check out my [games here](https://petet.itch.io "itch.io") and [music here](https://soundcloud.com/retropetet "soundcloud").
 
 ### audiovisual projects
-* [Webcam Fractals](https://petercowal.github.io/webcam-fractals/) (interactive fractal tool, 2023) 
-* [Community Vowel Art](https://petercowal.github.io/community-vowel-art/) (data visualization collab with Portland State University's linguistics department, 2022)
+* [webcam fractals](https://petercowal.github.io/webcam-fractals/) (interactive fractal tool, 2023) 
+* [community vowel art](https://petercowal.github.io/community-vowel-art/) (data visualization collab with Portland State University's linguistics department, 2022)
 * [STAFFcirc vol. 7b video](https://www.youtube.com/watch?v=tl0aWEt5nA0) (microtonal music visualizer, 2021, [source](https://github.com/petercowal/luna-visualizer))
 * [violet](https://twitter.com/retropetet/status/1350896880851447809) (unreleased waveguide synthesizer, 2021)
 * [STAFFcirc vol. 7a video](https://www.youtube.com/watch?v=bsiOMc4aV-8) (microtonal music visualizer, 2021)
