@@ -4,7 +4,7 @@
 Hi!  I'm Peter, a composer/programmer currently pursuing a mathematics PhD at Oregon State University.
 I study numerical methods for solving inverse problems in imaging.
 
-Online, I primarily exist under the alias "[petet](https://twitter.com/retropetet "twitter")."
+This site currently documents a few of the personal projects I've worked on over the past few years.
 You can check out my [games here](https://petet.itch.io "itch.io") and [music here](https://soundcloud.com/retropetet "soundcloud").
 
 ### games
