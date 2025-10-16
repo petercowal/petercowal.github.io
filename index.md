@@ -2,7 +2,7 @@
 ---
 
 Hi!  I'm Peter, a composer/programmer currently pursuing a mathematics PhD at Oregon State University.
-I study numerical methods for solving inverse problems in imaging.
+I study numerical methods for problems in linear algebra as well as machine learning.  In the past I've also studied inverse problems in medical imaging.
 
 This site currently documents a few of the personal projects I've worked on over the past few years.
 You can check out my [games here](https://petet.itch.io "itch.io") and [music here](https://soundcloud.com/retropetet "soundcloud").
@@ -18,11 +18,13 @@ You can check out my [games here](https://petet.itch.io "itch.io") and [music he
 * [autoharp cycles](https://battleofthebits.com/arena/Entry/Autoharp+Cycles/33794/) (pure data composition, 2020)
 * [violin harmonics](https://github.com/petercowal/violin-soundfonts) (soundfont, 2020)
 * [valence aleator](https://petet.itch.io/valence-aleator) (experimental music generator, 2019)
+* [fallspire](https://www.youtube.com/watch?v=tWEU-bOT90w) (demoscene collab with [sintel](https://x.com/sin_tel?lang=en), 2019)
 
 ### bigger games
 * [balmung](https://petet.itch.io/balmung) (adventure game, 2018)
 
 ### smaller games
+* [knotsnake](https://tic80.com/play?cart=3794) (puzzle game, 2024)
 * [arms of the demon king](https://petet.itch.io/arms-of-the-demon-king) (survival game, 2023)
 * [winds under a lost sky](https://petet.itch.io/winds-under-a-lost-sky) (exploration game, 2021)
 * [crepusculum](petet.itch.io/crepusculum) (kite-flying game prototype, 2020)
