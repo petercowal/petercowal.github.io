@@ -1,10 +1,12 @@
 ---
 ---
 
-Hi!  I'm Peter, a composer/programmer currently pursuing a mathematics PhD at Oregon State University.
-I study numerical methods for problems in linear algebra as well as machine learning.  In the past I've also studied inverse problems in medical imaging.
+Hi!  I'm Peter, a PhD candidate at Oregon State University studying applied mathematics.
+Right now I'm studying numerical methods for problems in linear algebra as well as machine learning.  In the past I've also studied inverse problems in medical imaging.
 
-This site currently documents a few of the personal projects I've worked on over the past few years.
+If you're curious about my research, I have a couple of preprints about accelerating linear algebra with random walks [here](https://arxiv.org/abs/2507.01885) and [here](https://arxiv.org/abs/2510.24608).  (I'm more proud of the second one.)
+
+I also develop computer games and write music in my spare time.
 You can check out my [games here](https://petet.itch.io "itch.io") and [music here](https://soundcloud.com/retropetet "soundcloud").
 
 ### audiovisual projects
