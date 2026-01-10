@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$base-font-family: "IBM Plex Mono", monospace;
+$base-font-size:   16px;
+$base-font-weight: 400;
+
+
+$text-color:       #fdfdfd !default;
+$background-color: #111 !default;
+$brand-color:      #2a7ae2 !default;
+
+$grey-color:       #282828 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
